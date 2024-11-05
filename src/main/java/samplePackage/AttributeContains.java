@@ -7,10 +7,13 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.annotations.Test;
 
 public class AttributeContains {
 
-	public static void main(String[] args) {
+	
+	@Test
+	public void attributeContains() {
 
 		// wait for attributeContains Method
 		ChromeDriver driver = new ChromeDriver();
