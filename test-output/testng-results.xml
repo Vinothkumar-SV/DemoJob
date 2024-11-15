@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-05T21:18:12 IST" name="Suite" finished-at="2024-11-05T21:18:36 IST" duration-ms="24497">
+  <suite started-at="2024-11-13T23:48:07 IST" name="Default suite" finished-at="2024-11-13T23:50:30 IST" duration-ms="143540">
     <groups>
     </groups>
-    <test started-at="2024-11-05T21:18:12 IST" name="Test" finished-at="2024-11-05T21:18:36 IST" duration-ms="24497">
-      <class name="samplePackage.ElementTobeClickable">
-        <test-method signature="elementTobeClickable()[pri:0, instance:samplePackage.ElementTobeClickable@543588e6]" started-at="2024-11-05T21:18:12 IST" name="elementTobeClickable" finished-at="2024-11-05T21:18:36 IST" duration-ms="24406" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- elementTobeClickable -->
-      </class> <!-- samplePackage.ElementTobeClickable -->
+    <test started-at="2024-11-13T23:48:07 IST" name="Default test" finished-at="2024-11-13T23:50:30 IST" duration-ms="143540">
       <class name="samplePackage.AttributeContains">
-        <test-method signature="attributeContains()[pri:0, instance:samplePackage.AttributeContains@37d4349f]" started-at="2024-11-05T21:18:12 IST" name="attributeContains" finished-at="2024-11-05T21:18:36 IST" duration-ms="23744" status="PASS">
+        <test-method signature="attributeContains()[pri:0, instance:samplePackage.AttributeContains@618425b5]" started-at="2024-11-13T23:48:07 IST" name="attributeContains" finished-at="2024-11-13T23:50:30 IST" duration-ms="143473" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- attributeContains -->
       </class> <!-- samplePackage.AttributeContains -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
